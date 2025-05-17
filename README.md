@@ -1,4 +1,5 @@
-# Maria UI Calculator 💡
+
+# Maria-UI-Calculator 🧮
 
 A modern, responsive calculator UI built using **Tailwind CSS**, **FontAwesome**, and **JavaScript**. Designed to be beautiful, interactive, and keyboard-accessible.
 
