@@ -14,11 +14,8 @@ A modern, responsive calculator UI built using **Tailwind CSS**, **FontAwesome**
 - JavaScript (vanilla)
 - FontAwesome
 
-## 📦 Setup
-```bash
-npm install
-npm run build
-```
 
-## 📄 License
+
+
+## 📄
 MIT License
